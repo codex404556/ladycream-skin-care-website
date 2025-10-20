@@ -154,7 +154,7 @@ body {
 
 .hero-wrap {
     height: 90vh;
-    background-image: url(/ladycream-skin-care-website/assets/hero-bg-1.webp);
+    background-image: url(https://codex404556.github.io/ladycream-skin-care-website/assets/hero-bg-1.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -164,11 +164,11 @@ body {
 }
 
 .hero-wrap2 {
-    background-image: url(/ladycream-skin-care-website/assets/hero-bg-2.webp) !important;
+    background-image: url(https://codex404556.github.io/ladycream-skin-care-website/assets/hero-bg-2.webp) !important;
 }
 
 .hero-wrap3 {
-    background-image: url(/ladycream-skin-care-website/assets/hero-bg-3.webp) !important;
+    background-image: url(https://codex404556.github.io/ladycream-skin-care-website/assets/hero-bg-3.webp) !important;
 }
 
 .hero-content {
@@ -592,7 +592,7 @@ body {
 
 .about-glowing-section {
     min-height: 80vh;
-    background-image: url('/ladycream-skin-care-website/assets/bg-about.webp');
+    background-image: url('https://codex404556.github.io/ladycream-skin-care-website/assets/bg-about.webp');
     background-repeat: no-repeat;
     background-position: right center;
     background-size: contain;

@@ -98,8 +98,8 @@ function Shop() {
                             <div className="col-md-3 mb-4" key={product.id}>
                                 <div className="product-item text-center position-relative">
                                     <div className="product-image w-100 position-relative overflow-hidden">
-                                        <img src={product.image} alt="product" className="img-fluid" />
-                                        <img src={product.secondImage} alt="product" className="img-fluid" />
+                                        <img src={product.image} alt="product" className="img-fluid" onError={(e) => { e.target.style.display = 'none' }} />
+                                        <img src={product.secondImage} alt="product" className="img-fluid" onError={(e) => { e.target.style.display = 'none' }} />
                                         <div className="product-icons gap-3">
                                             <div className="product-icon" onClick={() => addToCart(product)}>
                                                 <i className="bi bi-cart3 fs-5"></i>
