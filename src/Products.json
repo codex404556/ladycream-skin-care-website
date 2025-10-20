@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "image": "/Images/product-1-1.webp",
-        "secondImage": "/Images/product-1-2.webp",
+        "image": "../Images/product-1-1.webp",
+        "secondImage": "../Images/product-1-2.webp",
         "Productname": "Shield Conditioner",
         "price": "15,000 IQD",
         "tag": "New"
     },
     {
         "id": 2,
-        "image": "/Images/product-2-1.webp",
-        "secondImage": "/Images/product-2-2.webp",
+        "image": "./Images/product-2-1.webp",
+        "secondImage": "./Images/product-2-2.webp",
         "Productname": "Perfecting Facial Oil",
         "price": "12,000 IQD",
         "oldprice": "18,000 IQD",
@@ -18,16 +18,16 @@
     },
     {
         "id": 3,
-        "image": "/Images/product-3-1.webp",
-        "secondImage": "/Images/product-3-2.webp",
+        "image": "./Images/product-3-1.webp",
+        "secondImage": "./Images/product-3-2.webp",
         "Productname": "Enriched Hand & Body Wash",
         "price": "18,000 IQD",
         "tag": "New"
     },
     {
         "id": 4,
-        "image": "/Images/product-4-1.webp",
-        "secondImage": "/Images/product-4-2.webp",
+        "image": "./Images/product-4-1.webp",
+        "secondImage": "./Images/product-4-2.webp",
         "Productname": "Shield Shampoo",
         "price": "25,000 IQD",
         "oldprice": "35,000 IQD",
@@ -35,8 +35,8 @@
     },
     {
         "id": 5,
-        "image": "/Images/product-5-1.webp",
-        "secondImage": "/Images/product-5-2.jpg",
+        "image": "./Images/product-5-1.webp",
+        "secondImage": "./Images/product-5-2.jpg",
         "Productname": "Enriched Hand Wash",
         "price": "20,000 IQD",
         "oldprice": "40,000 IQD",
@@ -44,36 +44,36 @@
     },
     {
         "id": 6,
-        "image": "/Images/product-6-1.webp",
-        "secondImage": "/Images/product-6-2.webp",
+        "image": "./Images/product-6-1.webp",
+        "secondImage": "./Images/product-6-2.webp",
         "Productname": "Enriched Duo",
         "price": "22,000 IQD"
     },
     {
         "id": 7,
-        "image": "/Images/product-7-1.webp",
-        "secondImage": "/Images/product-7-2.webp",
+        "image": "./Images/product-7-1.webp",
+        "secondImage": "./Images/product-7-2.webp",
         "Productname": "Shield Spray",
         "price": "28,000 IQD"
     },
     {
         "id": 8,
-        "image": "/Images/product-8-1.webp",
-        "secondImage": "/Images/product-8-2.webp",
+        "image": "./Images/product-8-1.webp",
+        "secondImage": "./Images/product-8-2.webp",
         "Productname": "Nourishing Eye Cream",
         "price": "15,000 IQD"
     },
     {
         "id": 9,
-        "image": "/Images/product-9-1.webp",
-        "secondImage": "/Images/product-9-2.webp",
+        "image": "./Images/product-9-1.webp",
+        "secondImage": "./Images/product-9-2.webp",
         "Productname": "Nourishing Moisture Mask",
         "price": "26,000 IQD"
     },
     {
         "id": 10,
-        "image": "/Images/product-10-1.webp",
-        "secondImage": "/Images/product-10-2.webp",
+        "image": "./Images/product-10-1.webp",
+        "secondImage": "./Images/product-10-2.webp",
         "Productname": "Moisturizing Polishing Treatment",
         "price": "32,000 IQD",
         "oldprice": "40,000 IQD",
@@ -81,29 +81,29 @@
     },
     {
         "id": 11,
-        "image": "/Images/product-11-1.webp",
-        "secondImage": "/Images/product-11-2.webp",
+        "image": "./Images/product-11-1.webp",
+        "secondImage": "./Images/product-11-2.webp",
         "Productname": "Scalp Moisturizing Cream",
         "price": "24,000 IQD"
     },
     {
         "id": 12,
-        "image": "/Images/product-12-1.webp",
-        "secondImage": "/Images/product-12-2.webp",
+        "image": "./Images/product-12-1.webp",
+        "secondImage": "./Images/product-12-2.webp",
         "Productname": "Natural Coconut Cleansing Oil",
         "price": "17,000 IQD"
     },
     {
         "id": 13,
-        "image": "/Images/product-13-1.webp",
-        "secondImage": "/Images/product-13-2.webp",
+        "image": "./Images/product-13-1.webp",
+        "secondImage": "./Images/product-13-2.webp",
         "Productname": "Sideway Travel Case Set",
         "price": "15,000 IQD"
     },
     {
         "id": 14,
-        "image": "/Images/product-14-1.webp",
-        "secondImage": "/Images/product-14-2.webp",
+        "image": "./Images/product-14-1.webp",
+        "secondImage": "./Images/product-14-2.webp",
         "Productname": "Untangling Comb",
         "price": "40,000 IQD",
         "oldprice": "40,000 IQD",
@@ -111,8 +111,8 @@
     },
     {
         "id": 15,
-        "image": "/Images/product-15-1.webp",
-        "secondImage": "/Images/product-15-2.webp",
+        "image": "./Images/product-15-1.webp",
+        "secondImage": "./Images/product-15-2.webp",
         "Productname": "Vacation Travel Case Set",
         "price": "30,000 IQD",
         "oldprice": "40,000 IQD",
@@ -120,8 +120,8 @@
     },
     {
         "id": 16,
-        "image": "/Images/product-16-1.webp",
-        "secondImage": "/Images/product-16-2.webp",
+        "image": "./Images/product-16-1.webp",
+        "secondImage": "./Images/product-16-2.webp",
         "Productname": "Vaulted Mirror",
         "price": "14,000 IQD",
         "oldprice": "18,000 IQD",
