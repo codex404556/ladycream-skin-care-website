@@ -1,5 +1,5 @@
 import './App.css'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import Nav from './Components/Nav/Nav'
 import Index from './Components/Pages/Index'
 import About from './Components/Pages/About'
@@ -25,10 +25,10 @@ function App() {
         <Route path="/store" element={<Stores />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/contact" element={<Contact />} />
-       <Route path="/product/:id" element={<ProductDetails />} />
-        <Route path="/Wishlist" element={<Wishlist />} />
-        <Route path="/Cart" element={<Cart />} />
-        <Route path="/Checkout" element={<Checkout />} />
+        <Route path="/product/:id" element={<ProductDetails />} />
+        <Route path="/wishlist" element={<Wishlist />} />
+        <Route path="/cart" element={<Cart />} />
+        <Route path="/checkout" element={<Checkout />} />
       </Routes>
       <Footer />
     </>

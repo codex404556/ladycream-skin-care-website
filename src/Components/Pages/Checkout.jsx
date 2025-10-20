@@ -253,7 +253,7 @@ function Checkout() {
                                 <i className="ri-secure-payment-line me-2"></i>Place Order
                             </button>
 
-                            <Link to="/Cart" className="btn mt-2 text-decoration-none">
+                            <Link to="/cart" className="btn mt-2 text-decoration-none">
                                 <i className="ri-arrow-left-line me-1"></i>Back to Cart
                             </Link>
                         </div>

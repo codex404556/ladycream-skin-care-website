@@ -72,7 +72,7 @@ function Nav() {
                         </a>
                     </li>
                     <li className="nav-item position-relative">
-                        <Link to="/Wishlist">
+                        <Link to="/wishlist">
                             <i className="bi bi-heart fs-5 text-dark"></i>
                             <span className="position-absolute top-0 start-100 translate-middle cart-qount rounded-pill">
                                 {wishlistCount}
@@ -80,7 +80,7 @@ function Nav() {
                         </Link>
                     </li>
                     <li className="nav-item position-relative">
-                        <Link to="/Cart">
+                        <Link to="/cart">
                             <i className="bi bi-bag fs-5 text-dark"></i>
                             <span className="position-absolute top-0 start-100 translate-middle cart-qount rounded-pill">
                                 {cartCount}
@@ -115,7 +115,7 @@ function Nav() {
                             </a>
                         </li>
                         <li className="nav-item position-relative">
-                            <Link to="/Wishlist">
+                            <Link to="/wishlist">
                                 <i className="bi bi-heart fs-5 text-dark"></i>
                                 <span className="position-absolute top-0 start-100 translate-middle cart-qount rounded-pill">
                                     {wishlistCount}
@@ -123,7 +123,7 @@ function Nav() {
                             </Link>
                         </li>
                         <li className="nav-item position-relative">
-                            <Link to="/Cart">
+                            <Link to="/cart">
                                 <i className="bi bi-bag fs-5 text-dark"></i>
                                 <span className="position-absolute top-0 start-100 translate-middle cart-qount rounded-pill">
                                     {cartCount}
