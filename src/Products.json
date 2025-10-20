@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "image": "../Images/product-1-1.webp",
-        "secondImage": "../Images/product-1-2.webp",
+        "image": "/ladycream-skin-care-website/Images/product-1-1.webp",
+        "secondImage": "/ladycream-skin-care-website/Images/product-1-2.webp",
         "Productname": "Shield Conditioner",
         "price": "15,000 IQD",
         "tag": "New"
